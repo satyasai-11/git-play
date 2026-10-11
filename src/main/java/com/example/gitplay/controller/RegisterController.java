@@ -10,6 +10,9 @@ public class RegisterController {
     private void test1(){
         System.out.println("Register Test");
     }
+    private void dummy(){
+        System.out.println("Register Test");
+    }
 
 
 }
